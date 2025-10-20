@@ -20,5 +20,16 @@ It includes:
 - Code names
 - Code definitions
 
+The tab `Closed Coding` includes the codes used in the closed coding process.
+The tab `Axial Coding` includes the themes formed from the open coding process, and the codes that is related to each theme are listed.
+
 File:  
 - `Codebook.xlsx`
+
+---
+
+### 3. Interviewee Demographics
+The demographics of the interviewees. Besides the information closely related to the paper, this sheet also includes information such as practitioners resident country and experience in AI and traditional software development.
+
+File:  
+- `Interviewee_Demographics.xlsx`
