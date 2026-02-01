@@ -20,8 +20,8 @@ It includes:
 - Code names
 - Code definitions
 
-The tab `Closed Coding` includes the codes used in the closed coding process.
-The tab `Axial Coding` includes the themes formed from the open coding process, and the codes that is related to each theme are listed.
+The tab `1` includes the codes used in the deductive coding process.
+The tab `2` includes the themes formed from the inductive coding process, and the codes that is related to each theme are listed.
 
 File:  
 - `Codebook.xlsx`
@@ -33,3 +33,19 @@ The demographics of the interviewees. Besides the information closely related to
 
 File:  
 - `Interviewee_Demographics.xlsx`
+
+---
+
+### 4. Survey Questions
+The questionnaire used for the survey study.
+
+File:
+- `Survey_Questions.pdf`
+
+---
+
+### 5. Survey Responses
+The responses collected from the participants in the survey.
+
+File:
+- `Survey_Responses.xlsx`
